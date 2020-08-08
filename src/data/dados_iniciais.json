@@ -1,0 +1,274 @@
+{
+  "categorias": [
+    {
+      "titulo": "Floripa",
+      "link": "https://www.youtube.com/watch?v=jslxTgmWm_8&list=PLXFox7hO9BttD1vpJT1P0SuFiqR5MYtxa",
+      "cor": "#802029",
+      "link_extra": {
+        "text": "Imagens de Florianópolis (Santa Catarina / Brazil)",
+        "url": "https://www.youtube.com/watch?v=jslxTgmWm_8&list=PLXFox7hO9BttD1vpJT1P0SuFiqR5MYtxa"
+      },
+      "videos": [
+        {
+          "titulo": "Floripa by Matias Ternes ",
+          "url": "https://www.youtube.com/watch?v=jslxTgmWm_8&list=PLXFox7hO9BttD1vpJT1P0SuFiqR5MYtxa"
+        },
+        {
+          "titulo": "Floripa by Matias Ternes ",
+          "url": "https://www.youtube.com/watch?v=jslxTgmWm_8&list=PLXFox7hO9BttD1vpJT1P0SuFiqR5MYtxa"
+        },
+        {
+          "titulo": "Baleia Franca by Matias Ternes",
+          "url": "https://www.youtube.com/watch?v=iTBXybK0FKs&list=PLXFox7hO9BttD1vpJT1P0SuFiqR5MYtxa&index=2"
+        },
+        {
+          "titulo": "Aniversário floripa 2020 - 347 anos by 048 Filmes",
+          "url": "https://www.youtube.com/watch?v=18rkQOWTA14"
+        },
+        {
+          "titulo": "Covid 19 - Florianópolis. O dia em que a terra parou",
+          "url": "https://www.youtube.com/watch?v=z0PtVHUShKI"
+        }   
+      ]
+    },
+    {
+      "titulo": "Praias",
+      "cor": "#80206b",
+      "videos": [
+        {
+          "titulo": "Ilha do Campeche by Gustavo Testa",
+          "url": "https://www.youtube.com/watch?v=gTHyFV72f90"
+        },
+        {
+          "titulo": "Top 10 praias de Floripa by Bela Catarina",
+          "url": "https://www.youtube.com/watch?v=C4ThGD7X_Ic"
+        },
+        {
+          "titulo": "Praia da Joaquina by Drone Visual",
+          "url": "https://www.youtube.com/watch?v=6HrekIMgfmo&t=22s"          
+        },
+        {
+          "titulo": "Praia do Campeche by Flowripa na Lente",
+          "url": "https://www.youtube.com/watch?v=W4lZ1wIWUIA"
+        },
+        {
+          "titulo": "Praia da Armação by Flowripa na Lente",
+          "url": "https://www.youtube.com/watch?v=0VNaAyGeDV4"
+        },
+        {
+          "titulo": "Praia dos Açores by Hashtag Drone",
+          "url": "https://www.youtube.com/watch?v=b0_3reo7Mco"          
+        },
+        {
+          "titulo": "Praia da Lagoinha do Leste by Hashtag Drone",
+          "url": "https://www.youtube.com/watch?v=Bvqm2M3TZd0"          
+        }                
+      ]
+    },
+    {
+      "titulo": "Surf",
+      "cor": "#204e80",
+      "videos": [  
+        {
+          "titulo": "Pegadas Salgadas - filme completo by Luciano Burin",
+          "url": "https://www.youtube.com/watch?v=0KUJrjunyxY"
+        },
+        
+        {
+          "titulo": "SURF NO RIOZINHO DO CAMPECHE by Marina Werneck",
+          "url": "https://www.youtube.com/watch?v=KtICvRJLtT4"
+        },
+        {
+          "titulo": "Free surf em Floripa by Maresia Oficial",
+          "url": "https://www.youtube.com/watch?v=zUAW6iZdjZc"          
+        },
+        {
+          "titulo": "Session na Joaquina com Bixigun Model 9'6 by Fabio Gouveia",
+          "url": "https://www.youtube.com/watch?v=NTjJNoaszVA"          
+        },
+        {
+          "titulo": "Surf no Santinho by Marina Werneck",
+          "url": "https://www.youtube.com/watch?v=Byxcj-1WFUo"          
+        },
+        {
+          "titulo": "Surfe na praia da Joaquina by TheHHattori",
+          "url": "https://www.youtube.com/watch?v=Yrqb4oortmU"
+        },        
+        {
+          "titulo": "Tubos em Floripa by Marlon Klein Surf TV",
+          "url": "https://www.youtube.com/watch?v=EE2oAYbteyw"          
+        },
+        {
+          "titulo": "Surf Day no Pico da Cruz by Crystiam Maia",
+          "url": "https://www.youtube.com/watch?v=GgR-yQwDCpE"
+        },
+        {
+          "titulo": "Surfing Campeche by LF Maker",
+          "url": "https://www.youtube.com/watch?v=UqSF7lj-mY0"
+        }
+      ]
+    },
+    {
+      "titulo": "Windsurf",
+      "cor": "#20805e",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=EY9QeuaJQ1I"
+      },
+      "videos": [
+        {
+          "titulo": "Márcia da Windcenter by Michel Daura Brito",
+          "url": "https://www.youtube.com/watch?v=FeS7LeDnkK0"
+        },
+        {
+          "titulo": "Na pressão by RodrigoCuneo76",
+          "url": "https://www.youtube.com/watch?v=HyC6rngp3oo"
+        },
+        {
+          "titulo": "Windsurf Florianópolis - Martin Carvalh by Rovie Art",
+          "url": "https://www.youtube.com/watch?v=EY9QeuaJQ1I"
+        },
+        {
+          "titulo": "WindSurf - Lagoa da Conceição by Gustavo Montes",
+          "url": "https://www.youtube.com/watch?v=lFL8-Wz0G0s"
+        }, 
+        {
+          "titulo": "Windsurf Floripa by Ramon Kaminski",
+          "url": "https://www.youtube.com/watch?v=DhxrjOWq7pQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Kitesurf",
+      "cor": "#7d8020",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=epUI4lvqX3M"
+      },
+      "videos": [
+        {
+          "titulo": "Gokite Gopro by Sami Marins",
+          "url": "https://www.youtube.com/watch?v=zLKzJaTp_Fc"
+        }, 
+        {
+          "titulo": "Dias de Treino by Sami Marins",
+          "url": "https://www.youtube.com/watch?v=_ox98x5sx0U"
+        },
+        {
+          "titulo": "Campeche Session - Pedro Matos by 048 Filmes",
+          "url": "https://www.youtube.com/watch?v=epUI4lvqX3M"
+        },
+        {
+          "titulo": "Kitesurf Barra da Lagoa by Hugo Azevedo",
+          "url": "https://www.youtube.com/watch?v=g0oj5SNJEIY"
+        },
+        {
+          "titulo": "Kitesurf by Floripa Yoga & Kitesurf House",
+          "url": "https://www.youtube.com/watch?v=jm1YBcZahq4"
+        }
+      ]
+    },
+    {
+      "titulo": "Skate",
+      "cor": "#208036",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=WB0P2LLX0x4"
+      },
+      "videos": [
+        {
+          "titulo": "Pedro Barros de skate por Floripa by Canal OFF",
+          "url": "https://www.youtube.com/watch?v=WB0P2LLX0x4"
+        },
+        {
+          "titulo": "Pedro Barros - RTMF Bowl Session in Florianopolis, Brazil by RIDE Channel",
+          "url": "https://www.youtube.com/watch?v=9nm0BXQ8G0Y"
+        },
+        {
+          "titulo": "Pedro Barros - Floripa Skate Park by TV Vento Sul",
+          "url": "https://www.youtube.com/watch?v=A1CNEwDtMv8"
+        },
+        {
+          "titulo": "STU FLORIPA 2020 FINAL - HIGHLIGHT Men and Women by Muitas Artes Produções",
+          "url": "https://www.youtube.com/watch?v=my4YW5QNi1c"
+        },
+        {
+          "titulo": "Pedro Barros Skating Florianopolis by RIDE Channel",
+          "url": "https://www.youtube.com/watch?v=Y_1TKrsQ7yw"
+        }
+      ]
+    },
+    {
+      "titulo": "Música",
+      "cor": "#2b2080",
+      "videos": [
+        {
+          "titulo": "Dazaranha Acústico 25 Anos & Camerata Florianópolis by Camerata Florianópolis",
+          "url": "https://www.youtube.com/watch?v=3OOwtfoRF9s"
+        },      
+        {
+          "titulo": "Empty Space & Young Lust - Pink Floyd by Immigrant & Durga McBroom",
+          "url": "https://www.youtube.com/watch?v=j4vvRggccVM"
+        },
+        {
+          "titulo": "MONEY - Pink Floyd by Immigrant & Camerata Florianópolis",
+          "url": "https://www.youtube.com/watch?v=ZYlHJ_tcPuA"
+        },
+        {
+          "titulo": "Walk in my shadow by Psilojam",
+          "url": "https://www.youtube.com/watch?v=toR1vrWI3QI"
+        },
+        {
+          "titulo": "O Mané by Dazaranha",
+          "url": "https://www.youtube.com/watch?v=mOZVGN9aQd8"
+        },
+        {
+          "titulo": "Galheta by Dazaranha e Camerata Florianópolis",
+          "url": "https://www.youtube.com/watch?v=o0ey3dYngLg"
+        },
+        {
+          "titulo": "Garota Encantada by Dazaranha",
+          "url": "https://www.youtube.com/watch?v=J1rCHWS9z08"
+        },
+        {
+          "titulo": "Salão de Festa à Vapor - DVD Acústico by Dazaranha 25 anos e Camerata Florianópolis",
+          "url": "https://www.youtube.com/watch?v=6AhbtFWO84g&list=OLAK5uy_nuKuMcjlgRyrP2s8znW7Um06i2guUyfkM"          
+        },
+        {
+          "titulo": "Paul Gilbert e Juliano Diniz by colman tech",
+          "url": "https://www.youtube.com/watch?v=IJFK04V-Adg"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologia",
+      "cor": "#242896",
+      "videos": [
+        {
+          "titulo": "Fapesc Inovação by Fapesc",
+          "url": "https://www.youtube.com/watch?v=-QJsUYmquMk"
+        },
+        {
+          "titulo": "Cases CELTA - Conheça o ecossistema criado no CELTA by Fundação CERTI",
+          "url": "https://www.youtube.com/watch?v=l-VQfydt_UI"
+        },
+        {
+          "titulo": "Floripa Tech: como a Ilha se tornou o Vale do silício brasileiro by Balanço Geral Florianópolis",
+          "url": "https://www.youtube.com/watch?v=DGYq4vo5HxM"
+        },
+        {
+          "titulo": "Ecossistema de Inovação de Florianópolis by Fundação Certi",
+          "url": "https://www.youtube.com/watch?v=IjgFBE5wC_4"
+        },    
+        {
+          "titulo": "LinkLab Open Day by ACATE",
+          "url": "https://www.youtube.com/watch?v=j6qt3bQATOo"          
+        },
+        {
+          "titulo": "Pílula de Conhecimento - BrasilRad (Eletrocêutica) by ACATE",
+          "url": "https://www.youtube.com/watch?v=JCFvVgwkVME"
+        }
+      ]
+    }
+  ]
+}
